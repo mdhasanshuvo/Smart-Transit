@@ -1,0 +1,66 @@
+<RCC>
+    <qresource prefix="/pic">
+        <file>images/SL.png</file>
+        <file>images/SR.png</file>
+        <file>images/StL.png</file>
+        <file>images/StR.png</file>
+        <file>images/TL.png</file>
+        <file>images/TR.png</file>
+        <file>images/Chair manu.jpg</file>
+        <file>images/User.jpg</file>
+        <file>images/CRS.png</file>
+        <file>images/back.png</file>
+        <file>images/Next.png</file>
+        <file>images/OK.png</file>
+        <file>images/loading.png</file>
+        <file>images/bus.png</file>
+        <file>images/New Chair.png</file>
+        <file>images/Ad Sup.png</file>
+        <file>images/Rem Drive.png</file>
+        <file>images/Rem Bus.png</file>
+        <file>images/Log Sup.png</file>
+        <file>images/Sup Menu.png</file>
+        <file>images/Add Helper.png</file>
+        <file>images/Add Bus.png</file>
+        <file>images/Chair Log.png</file>
+        <file>images/Add Driver.png</file>
+        <file>images/login-.png</file>
+        <file>images/remove.png</file>
+        <file>images/Door.png</file>
+        <file>images/wlcm.png</file>
+        <file>images/dr log.png</file>
+        <file>images/dr menu.png</file>
+        <file>images/help rem.png</file>
+        <file>images/help log.png</file>
+        <file>images/com Dr.png</file>
+        <file>images/com see.png</file>
+        <file>images/com sup.png</file>
+        <file>images/Schedule.png</file>
+        <file>images/BackGround.png</file>
+        <file>images/Bus add.png</file>
+        <file>images/change.png</file>
+        <file>images/eye.png</file>
+        <file>images/Developer.png</file>
+        <file>images/info.png</file>
+        <file>images/list-search.png</file>
+        <file>images/user-avatar.png</file>
+        <file>images/Summary .png</file>
+        <file>images/BG.png</file>
+        <file>images/contract.png</file>
+        <file>images/discussion.png</file>
+        <file>images/document.png</file>
+        <file>images/driver (1).png</file>
+        <file>images/driver.png</file>
+        <file>images/guest.png</file>
+        <file>images/help.png</file>
+        <file>images/id.png</file>
+        <file>images/improvement.png</file>
+        <file>images/updated.png</file>
+        <file>images/email (1).png</file>
+        <file>images/phone.png</file>
+        <file>images/seats.png</file>
+        <file>images/user (1).png</file>
+        <file>images/connection.png</file>
+        <file>images/Coordinator.png</file>
+    </qresource>
+</RCC>
