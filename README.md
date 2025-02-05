@@ -11,7 +11,7 @@ Efficient **Transport Management System (TMS)** designed to streamline **schedul
 🔹 It enhances **transport logistics, scheduling, and user coordination** to ensure seamless operations.  
 🔹 Designed for **educational institutions**, it simplifies **bus tracking, seat allocation, and transport scheduling**.  
 
-This project was developed as part of our **2nd Semester Object-Oriented Programming (OOP) course** at **International Islamic University Chittagong (IIUC)**.  
+This project was developed as part of our **Software Development-1 course** at **International Islamic University Chittagong (IIUC)**.  
 
 ---
 
